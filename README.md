@@ -1,4 +1,5 @@
 SEW_12-13
 =========
 Learning to use git are:
-Janet WEiss 3AHIT/TGM
+Janet Weiss 3AHIT/TGM
+Rene Pöcher 3AHIT/TGM
